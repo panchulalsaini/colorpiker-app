@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colorpiker-app/static/css/main.d3dc6ddf.css",
+    "main.js": "/colorpiker-app/static/js/main.7b84838c.js",
+    "index.html": "/colorpiker-app/index.html",
+    "main.d3dc6ddf.css.map": "/colorpiker-app/static/css/main.d3dc6ddf.css.map",
+    "main.7b84838c.js.map": "/colorpiker-app/static/js/main.7b84838c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3dc6ddf.css",
+    "static/js/main.7b84838c.js"
+  ]
+}
